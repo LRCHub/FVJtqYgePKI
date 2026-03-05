@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "人類ぷるぷる☆大作戦!!",
+  "base_artist": "天鬼ぷるる",
+  "createdAt": "2026-03-05T18:33:44.814454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人類ぷるぷる☆大作戦!!",
+      "artist": "天鬼ぷるる",
+      "has_synced": false,
+      "path": "select/pl_01_人類ぷるぷる☆大作戦!!_天鬼ぷるる.txt"
+    }
+  ]
+}
